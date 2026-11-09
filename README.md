@@ -5,3 +5,12 @@
 ```text
 你好，世界 🌍
 ```
+
+## 安装
+
+仓库内只有文档，没有运行时代码或第三方依赖，克隆到本地即可：
+
+```bash
+git clone https://github.com/shabe222/wyt-sandbox.git
+cd wyt-sandbox
+```
